@@ -1,6 +1,5 @@
 #include <iostream>
 #include <string>
-#include <algorithm>
 
 void find(int *arr, int elem, int N) { //поиск элемента в массиве типа int
     bool flag = false;
